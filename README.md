@@ -5,4 +5,5 @@ This repository includes all the scripts and Jupyter notebooks related to the pa
 
 ## Authors
 [J.J.F. (Jelle) Kouters](https://github.com/jellekouters)
+
 ![image](/manuscript//figures/MAM.png)
