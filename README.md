@@ -5,7 +5,7 @@ This repository includes all the scripts and Jupyter notebooks related to the pa
 
 
 ## Workflow
-![image](/manuscript//figures//Workflow.jpg)
+![image](/figures//manuscript//Workflow.jpg)
 
 ## Requirements
 ### Embedding calculation
@@ -18,4 +18,4 @@ The embedding calculation requires the following dependencies:
 ## Authors
 [J.J.F. (Jelle) Kouters](https://github.com/jellekouters)
 
-![image](/manuscript//figures/MAM.png)
+![image](/figures//MAM.png)
