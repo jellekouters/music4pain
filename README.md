@@ -5,7 +5,7 @@ This repository includes all the scripts and Jupyter notebooks related to the pa
 
 
 ## Workflow
-![image](/figures//manuscript//Workflow.jpg)
+![image](/figures//manuscript//Figure1_1200.jpg)
 
 ## Requirements
 ### Embedding calculation
